@@ -43,7 +43,13 @@
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikitlearn" />
 </p>
 
-**Libraries & Frameworks:** Pandas, NumPy, Statsmodels, Prophet, Flask, PySpark
+**Libraries & Frameworks:** Pandas, NumPy, Statsmodels, matplotlib, seaborn
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
+</p>
 
 **Machine Learning:** Regression, Classification, Clustering, Feature Engineering, Model Evaluation, Hyperparameter Tuning
 
